@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '3831'
     url: http://www.gutenberg.org/2009/agents/3831
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34416#The-River-s-ChildrenAn-Idyl-of-the-Mississippi
 gutenberg_issued: '2010-11-23'
 gutenberg_type: Text
 identifiers:
